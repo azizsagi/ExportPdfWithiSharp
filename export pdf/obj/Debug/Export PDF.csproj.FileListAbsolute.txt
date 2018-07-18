@@ -1,0 +1,20 @@
+C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Export PDF\Export PDF\Export PDF\bin\Debug\Export PDF.exe.config
+C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Export PDF\Export PDF\Export PDF\bin\Debug\Export PDF.exe
+C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Export PDF\Export PDF\Export PDF\bin\Debug\Export PDF.pdb
+C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Export PDF\Export PDF\Export PDF\obj\Debug\Export PDF.csprojResolveAssemblyReference.cache
+C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Export PDF\Export PDF\Export PDF\obj\Debug\Export_PDF.Form1.resources
+C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Export PDF\Export PDF\Export PDF\obj\Debug\Export_PDF.Properties.Resources.resources
+C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Export PDF\Export PDF\Export PDF\obj\Debug\Export PDF.csproj.GenerateResource.Cache
+C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Export PDF\Export PDF\Export PDF\obj\Debug\Export PDF.exe
+C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Export PDF\Export PDF\Export PDF\obj\Debug\Export PDF.pdb
+C:\Users\Aziz\Dropbox\My Data\Adeptek\C# Practices\Export PDF\Export PDF\Export PDF\bin\Debug\itextsharp.dll
+C:\Users\faruk.aziz\Desktop\Export PDF\Export PDF\bin\Debug\Export PDF.exe.config
+C:\Users\faruk.aziz\Desktop\Export PDF\Export PDF\obj\Debug\Export PDF.exe
+C:\Users\faruk.aziz\Desktop\Export PDF\Export PDF\obj\Debug\Export PDF.pdb
+C:\Users\faruk.aziz\Desktop\Export PDF\Export PDF\bin\Debug\Export PDF.exe
+C:\Users\faruk.aziz\Desktop\Export PDF\Export PDF\bin\Debug\Export PDF.pdb
+C:\Users\faruk.aziz\Desktop\Export PDF\Export PDF\bin\Debug\itextsharp.dll
+C:\Users\faruk.aziz\Desktop\Export PDF\Export PDF\obj\Debug\Export PDF.csprojResolveAssemblyReference.cache
+C:\Users\faruk.aziz\Desktop\Export PDF\Export PDF\obj\Debug\Export_PDF.Form1.resources
+C:\Users\faruk.aziz\Desktop\Export PDF\Export PDF\obj\Debug\Export_PDF.Properties.Resources.resources
+C:\Users\faruk.aziz\Desktop\Export PDF\Export PDF\obj\Debug\Export PDF.csproj.GenerateResource.Cache
